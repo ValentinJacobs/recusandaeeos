@@ -1,0 +1,32 @@
+{
+  "name": "recusandaeeos",
+  "version": "1.0.0",
+  "description": "Lagash simple nconf wrapper.",
+  "main": "js/index.js",
+  "typings": "js/index",
+  "files": [
+    "js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValentinJacobs/recusandaeeos.git"
+  },
+  "keywords": [
+    "ex",
+    "ts",
+    "dolorem",
+    "config",
+    "wrapper",
+    "lagash"
+  ],
+  "author": "MajorMcLaughlin",
+  "license": "MIT",
+  "dependencies": {
+    "@types/nconf": "0.0.30",
+    "@types/node": "^6.0.37",
+    "nconf": "^0.8.4"
+  }
+}
